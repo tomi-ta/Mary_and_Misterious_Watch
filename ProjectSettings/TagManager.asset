@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - non active object
-  - move lift
-  - move box
+  tags: []
   layers:
   - Default
   - TransparentFX
