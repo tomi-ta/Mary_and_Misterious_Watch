@@ -76,34 +76,9 @@
     <Reference Include="UnityEngine.HoloLens">
       <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\TitleScript.cs" />
-    <Compile Include="Assets\Scripts\Score.cs" />
-    <Compile Include="Assets\Scripts\StageManager.cs" />
-=======
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Assets\2DTilezoneFiles\Scripts\AutoColliderGenerator.cs" />
-    <Compile Include="Assets\2DTilezoneFiles\Scripts\PixelPerfectCamera.cs" />
-    <Compile Include="Assets\2DTilezoneFiles\Scripts\TileInfo.cs" />
-    <Compile Include="Assets\Scripts\BoxBehaviour.cs" />
-    <Compile Include="Assets\Scripts\JumpTrriger.cs" />
-    <Compile Include="Assets\Scripts\MoveliftBehaviour.cs" />
-    <Compile Include="Assets\Scripts\Pauser.cs" />
-    <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\2DTilezoneFiles\CollisionData\dirt-tiles_collision_data.cd" />
-    <None Include="Assets\2DTilezoneFiles\CollisionData\roguelikeDungeon_collision_data.cd" />
->>>>>>> parent of c523354... Merge pull request #2 from tomi-ta/shimizu
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
