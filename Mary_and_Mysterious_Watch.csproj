@@ -87,6 +87,7 @@
     <Compile Include="Assets\2DTilezoneFiles\Scripts\AutoColliderGenerator.cs" />
     <Compile Include="Assets\2DTilezoneFiles\Scripts\PixelPerfectCamera.cs" />
     <Compile Include="Assets\2DTilezoneFiles\Scripts\TileInfo.cs" />
+    <Compile Include="Assets\Script\TitleScript.cs" />
     <Compile Include="Assets\Scripts\BoxBehaviour.cs" />
     <Compile Include="Assets\Scripts\JumpTrriger.cs" />
     <Compile Include="Assets\Scripts\MoveliftBehaviour.cs" />
