@@ -109,8 +109,11 @@ NavMeshSettings:
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &7525731
 =======
+=======
+>>>>>>> parent of 39b0b12... Merge branch 'master' into shimizu
 --- !u!1 &108038867
 >>>>>>> parent of 4be2048... Merge pull request #1 from tomi-ta/tomita
 GameObject:
@@ -182,8 +185,11 @@ Camera:
   orthographic: 1
   orthographic size: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Depth: 0
 =======
+=======
+>>>>>>> parent of 39b0b12... Merge branch 'master' into shimizu
   m_Depth: -1
 >>>>>>> parent of 4be2048... Merge pull request #1 from tomi-ta/tomita
   m_CullingMask:
@@ -200,11 +206,16 @@ Camera:
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
   m_StereoMirrorMode: 0
+<<<<<<< HEAD
 --- !u!4 &7525736
+=======
+--- !u!4 &108038872
+>>>>>>> parent of 39b0b12... Merge branch 'master' into shimizu
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 7525731}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -214,6 +225,11 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
 >>>>>>> parent of 4be2048... Merge pull request #1 from tomi-ta/tomita
+=======
+  m_GameObject: {fileID: 108038867}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+>>>>>>> parent of 39b0b12... Merge branch 'master' into shimizu
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
