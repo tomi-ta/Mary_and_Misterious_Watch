@@ -6,9 +6,9 @@ public class PlayerBehaviour : MonoBehaviour {
 
     //変数定義
     [SerializeField]
-    public float flap = 100f;
+    private float flap = 100f;
     [SerializeField]
-    public float scroll = 5f;
+    private float scroll = 5f;
     float direction = 0f;
     Rigidbody2D rb2d;
     bool jump = false;
