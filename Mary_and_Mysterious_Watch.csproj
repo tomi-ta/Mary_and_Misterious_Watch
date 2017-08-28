@@ -89,6 +89,8 @@
     <Compile Include="Assets\2DTilezoneFiles\Scripts\TileInfo.cs" />
     <Compile Include="Assets\Script\TitleScript.cs" />
     <Compile Include="Assets\Scripts\BoxBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Crab_enemy.cs" />
+    <Compile Include="Assets\Scripts\EnemyBehaviour.cs" />
     <Compile Include="Assets\Scripts\JumpTrriger.cs" />
     <Compile Include="Assets\Scripts\MoveliftBehaviour.cs" />
     <Compile Include="Assets\Scripts\Pauser.cs" />
